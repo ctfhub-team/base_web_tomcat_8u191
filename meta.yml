@@ -1,0 +1,6 @@
+name: base_web_tomcat_8u191
+title: 基础镜像 WEB Tomcat 8.5.50 OpenJDK 8u191
+desc: 基础镜像 WEB Tomcat 8.5.50 OpenJDK 8u191
+tags:
+  - web
+  - tomcat
